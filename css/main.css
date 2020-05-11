@@ -63,13 +63,13 @@ footer {
 	left: 0;
 	bottom: 0;
 	font-size: 14px;
-	background-color:#40425e;
+	background-color:#d5d6de;
 	width: 100%;
 	padding: 15px;
 }
 
 .button {
-	background-color: #40425e;
+	background-color: #d5d6de;
 	padding-top: 6px;
 	padding-right: 12px;
 	padding-bottom: 6px;
@@ -159,7 +159,7 @@ ul {
     height: 25px;
     right: -17px;
     background-color: white;
-    border: 4px solid #40425e;
+    border: 4px solid #d5d6de;
     top: 15px;
     border-radius: 50%;
     z-index: 1;
@@ -211,7 +211,7 @@ ul {
 /* The actual content */
 .tlcontent {
     padding: 20px 30px;
-    background-color:#40425e;
+    background-color:#d5d6de;
     position: relative;
     border-radius: 6px;
 }
