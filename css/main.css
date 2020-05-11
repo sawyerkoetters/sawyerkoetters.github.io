@@ -15,7 +15,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 	color: #fff;
 	margin: 0;
-    background-color: #e1e3f0;
+    background-color: #f7f7f7;
 }
 h1 {
 	font-size: 64px;
@@ -47,7 +47,7 @@ a:link, a:active,a:visited {
 }
 a:hover {
     text-decoration: underline;
-    color: #7b8bb0;
+    color: #a3a3a3;
 }
 
 main {
@@ -57,7 +57,7 @@ main {
 	margin-left: auto;
 }
 footer {
-	color: #fff;
+	color: #000;
 	position: relative;
 	height: 65px;
 	left: 0;
