@@ -69,7 +69,7 @@ footer {
 }
 
 .button {
-	background-color: #d5d6de;
+	background-color: #454754;
 	padding-top: 6px;
 	padding-right: 12px;
 	padding-bottom: 6px;
@@ -159,7 +159,7 @@ ul {
     height: 25px;
     right: -17px;
     background-color: white;
-    border: 4px solid #d5d6de;
+    border: 4px solid #454754;
     top: 15px;
     border-radius: 50%;
     z-index: 1;
@@ -211,7 +211,7 @@ ul {
 /* The actual content */
 .tlcontent {
     padding: 20px 30px;
-    background-color:#d5d6de;
+    background-color:#454754;
     position: relative;
     border-radius: 6px;
 }
